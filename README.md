@@ -54,6 +54,21 @@ This project demonstrates a complete end-to-end sales analysis workflow using Py
 
 ---
 
+## 🧠 Skills Demonstrated
+
+- Data Cleaning
+- Data Transformation
+- Feature Engineering
+- Data Modeling
+- Star Schema Design
+- Power Query
+- DAX Calculations
+- KPI Development
+- Dashboard Design
+- Data Visualization
+- Business Intelligence
+- Python (Pandas & NumPy)
+
 ## 📂 Repository Structure
 
 - PROJECT BI.pbix
