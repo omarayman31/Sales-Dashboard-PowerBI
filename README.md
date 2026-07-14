@@ -1,4 +1,7 @@
 # 📊 Sales Dashboard - Power BI
+## 📷 Dashboard Preview
+![Uploading Screenshot 2026-07-10 212547.png…]()
+
 
 ## 📌 Project Overview
 
